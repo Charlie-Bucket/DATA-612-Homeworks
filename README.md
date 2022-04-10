@@ -1,12 +1,12 @@
 # DATA-612
 **Data Mining Homework**
 
-**Assignment 3:** Used pandas to manipulate a csv file and create new columns of data. I use MLB home game data for this assignment
+**Assignment 3:** Using pandas to manipulate a csv file and create new columns of data.
 
-**Assignment 4**: Used matplot and seaborn libraries in Python to create charts for univariate and bivarate data. The data is MLB batting statistics. I use hits and strike outs for this assignment.
+**Assignment 4**: Using matplot and seaborn libraries in Python to create charts for univariate and bivarate data.
 
-**Assignment 5:** Used pandas and numpy libaries to merge datasets, locate missing values, and replace missing values with data.
+**Assignment 5:** Using pandas and numpy libaries to merge datasets, locate missing values, and replace missing values with data.
 
-**Assignment 6:** converting column dtypes
+**Assignment 6:** Converting column dtypes
 
-**Assignment 7:** Used regex to clean and convert string values. Using .apply() to run functions.
+**Assignment 7:** Useing regex to clean and convert string values, and using .apply() to run functions.
