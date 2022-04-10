@@ -8,3 +8,5 @@
 **Assignment 5:** Used pandas and numpy libaries to merge datasets, locate missing values, and replace missing values with data.
 
 **Assignment 6:** converting column dtypes
+
+**Assignment 7:** Used regex to clean and convert string values. Using .apply() to run functions.
