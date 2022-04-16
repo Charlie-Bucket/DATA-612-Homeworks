@@ -9,4 +9,6 @@
 
 **Assignment 6:** Converting column dtypes
 
-**Assignment 7:** Useing regex to clean and convert string values, and using .apply() to run functions.
+**Assignment 7:** Using regex to clean and convert string values, and using .apply() to run functions.
+
+**Assignment 8:** Using .groupby() to apply function to create summary data for a group. 
