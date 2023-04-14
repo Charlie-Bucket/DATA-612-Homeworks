@@ -1,5 +1,5 @@
 # DATA-612
-**Data Mining Homework**
+**Data Mining in Python Homework**
 
 **Assignment 3:** Using pandas to manipulate a csv file and create new columns of data.
 
