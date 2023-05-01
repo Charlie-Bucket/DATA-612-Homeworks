@@ -12,3 +12,5 @@
 **Assignment 7:** Using regex to clean and convert string values, and using .apply() to run functions.
 
 **Assignment 8:** Using .groupby() to apply function to create summary data for a group. 
+
+**Final Project:** First time trying a Kaggle competiion - Spaceship Titanic dataset
