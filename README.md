@@ -14,6 +14,3 @@
 **Assignment 8:** Using .groupby() to apply function to create summary data for a group. 
 
 **Final Project:** First time trying a Kaggle competition - Spaceship Titanic dataset
-
-# DATA-611
-**Machine Learning**
